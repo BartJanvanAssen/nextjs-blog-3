@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Read{' '}
+          Do not Read{' '}
           <Link href="/posts/first-blog">
             <a>this page!</a>
           </Link>
